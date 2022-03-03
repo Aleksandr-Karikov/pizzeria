@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pe6GMXnH993GgUk3/vSPFBoJNCR/kaEZGNpe6flM8Ao6dmRSVxE/btyJwe3PviYJNMgdTc99pzw6ZTtGJ/RW7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksandr\\source\\repos\\pizzeria\\pizzeria\\pizzeria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
